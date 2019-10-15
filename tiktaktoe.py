@@ -1,3 +1,5 @@
+#TILL KURSEN "PROGRAMMERING 2"
+
 import random
 import tkinter as tk
 from tkinter import ttk
