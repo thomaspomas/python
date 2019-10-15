@@ -1,0 +1,25 @@
+v1=5
+#create the variable v1 and assign the value 5 to it
+v2=6
+#create the variable v2 and assign the value 6 to it
+v3="5"
+#create the variable v3 and assign the value "5" to it
+v4="6"
+#create the variable v4 and assign the value "6" to it.
+
+
+print (v1)
+#print the value in the variable v1 to the screen
+print (v2)
+#print the value in the variable v2 to the screen
+print (v3)
+#print the value in the variable v3 to the screen
+print (v4)
+#print the value in the variable v4 to the screen
+
+print (v1 + v2)
+#print the sum of variables v1 and v2
+print (v3 + v4)
+#print the sum of variables v3 and v4
+ 
+#how does v1 and v2 differ from v3 and v4? 
